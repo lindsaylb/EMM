@@ -16,7 +16,7 @@
 "origin" : "Germany",
 "temperament" : "Corageous, Intelligent, Loyal, Watchful",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "gs"
 },
 
 {
@@ -26,7 +26,7 @@
 "origin" : "United Kingdom",
 "temperament" : "Intelligent, Kind, Friendly, Confident",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "golden"
 },
 
 {
@@ -36,7 +36,7 @@
 "origin" : "France, UK",
 "temperament" : "Playful, Sociable, Friendly, Lively, Patient",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "french"
 },
 
 {
@@ -46,7 +46,7 @@
 "origin" : "United Kingdom",
 "temperament" : "Friendly, Docile, Willful, Gregarious",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "bulldog"
 },
 
 {
@@ -56,7 +56,7 @@
 "origin" : "United Kingdom",
 "temperament" : "Gentle, Intelligent, Even Tempered, Determined",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "beagle"
 },
 
 {
@@ -66,7 +66,7 @@
 "origin" : "Germany, France",
 "temperament" : "Intelligent, Faithful, Trainable, Instinctual",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "poodle"
 },
 
 {
@@ -76,7 +76,7 @@
 "origin" : "Germany",
 "temperament" : "Intelligent, Corageous, Fearless, Confident",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "rottie"
 },
 
 {
@@ -86,7 +86,7 @@
 "origin" : "Germany",
 "temperament" : "Intelligent, Trainable, Boisterous, Cooperative",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "pointer"
 },
 
 {
@@ -96,7 +96,7 @@
 "origin" : "Germany",
 "temperament" : "Playful, Friendly, Devoted, Loyal",
 "hypoallergenic" : "No",
-"pic": "lab"
+"pic": "boxer"
 }
 ]
 
