@@ -5,8 +5,7 @@
 "breedType" : "Purebred",
 "origin" : "Canada,USA",
 "temperament" : "Cheerful, Gentle, Friendly, Intelligent",
-"hypoallergenic" : "No",
-"image" : "lab.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -15,8 +14,7 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Corageous, Intelligent, Loyal, Watchful",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -25,10 +23,8 @@
 "breedType" : "Purebred",
 "origin" : "United Kingdom",
 "temperament" : "Intelligent, Kind, Friendly, Confident",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
-
 
 {
 "id" : 4,
@@ -36,8 +32,7 @@
 "breedType" : "Purebred",
 "origin" : "France, UK",
 "temperament" : "Playful, Sociable, Friendly, Lively, Patient",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -46,8 +41,7 @@
 "breedType" : "Purebred",
 "origin" : "United Kingdom",
 "temperament" : "Friendly, Docile, Willful, Gregarious",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -56,8 +50,7 @@
 "breedType" : "Purebred",
 "origin" : "United Kingdom",
 "temperament" : "Gentle, Intelligent, Even Tempered, Determined",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -66,8 +59,7 @@
 "breedType" : "Purebred",
 "origin" : "Germany, France",
 "temperament" : "Intelligent, Faithful, Trainable, Instinctual",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -76,8 +68,7 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Intelligent, Corageous, Fearless, Confident",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -86,8 +77,7 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Intelligent, Trainable, Boisterous, Cooperative",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 },
 
 {
@@ -96,8 +86,7 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Playful, Friendly, Devoted, Loyal",
-"hypoallergenic" : "No",
-"image" : "https://images.dog.ceo/breeds/labrador/n02099712_7493.jpg"
+"hypoallergenic" : "No"
 }
 ]
 
