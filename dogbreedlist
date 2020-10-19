@@ -1,0 +1,92 @@
+[
+{
+"id" : 1,
+"breed" : "Labrador Retriever",
+"breedType" : "Purebred",
+"origin" : "Canada,USA",
+"temperament" : "Cheerful, Gentle, Friendly, Intelligent",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 2,
+"breed" : "German Shepard",
+"breedType" : "Purebred",
+"origin" : "Germany",
+"temperament" : "Corageous, Intelligent, Loyal, Watchful",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 3,
+"breed" : "Golden Retriever",
+"breedType" : "Purebred",
+"origin" : "United Kingdom",
+"temperament" : "Intelligent, Kind, Friendly, Confident",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 4,
+"breed" : "French Bulldog",
+"breedType" : "Purebred",
+"origin" : "France, UK",
+"temperament" : "Playful, Sociable, Friendly, Lively, Patient",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 5,
+"breed" : "Bulldog",
+"breedType" : "Purebred",
+"origin" : "United Kingdom",
+"temperament" : "Friendly, Docile, Willful, Gregarious",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 6,
+"breed" : "Beagle",
+"breedType" : "Purebred",
+"origin" : "United Kingdom",
+"temperament" : "Gentle, Intelligent, Even Tempered, Determined",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 7,
+"breed" : "Poodle",
+"breedType" : "Purebred",
+"origin" : "Germany, France",
+"temperament" : "Intelligent, Faithful, Trainable, Instinctual",
+"hypoallergenic" : "Yes"
+},
+
+{
+"id" : 8,
+"breed" : "Rottweiler",
+"breedType" : "Purebred",
+"origin" : "Germany",
+"temperament" : "Intelligent, Corageous, Fearless, Confident",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 9,
+"breed" : "German Shorthaired Pointer",
+"breedType" : "Purebred",
+"origin" : "Germany",
+"temperament" : "Intelligent, Trainable, Boisterous, Cooperative",
+"hypoallergenic" : "No"
+},
+
+{
+"id" : 10,
+"breed" : "Boxer",
+"breedType" : "Purebred",
+"origin" : "Germany",
+"temperament" : "Playful, Friendly, Devoted, Loyal",
+"hypoallergenic" : "No"
+}
+]
+
