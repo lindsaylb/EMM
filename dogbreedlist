@@ -6,7 +6,7 @@
 "origin" : "Canada,USA",
 "temperament" : "Cheerful, Gentle, Friendly, Intelligent",
 "hypoallergenic" : "No",
-"image": "lab"
+"pic": "lab"
 },
 
 {
@@ -15,7 +15,8 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Corageous, Intelligent, Loyal, Watchful",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -24,7 +25,8 @@
 "breedType" : "Purebred",
 "origin" : "United Kingdom",
 "temperament" : "Intelligent, Kind, Friendly, Confident",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -33,7 +35,8 @@
 "breedType" : "Purebred",
 "origin" : "France, UK",
 "temperament" : "Playful, Sociable, Friendly, Lively, Patient",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -42,7 +45,8 @@
 "breedType" : "Purebred",
 "origin" : "United Kingdom",
 "temperament" : "Friendly, Docile, Willful, Gregarious",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -51,7 +55,8 @@
 "breedType" : "Purebred",
 "origin" : "United Kingdom",
 "temperament" : "Gentle, Intelligent, Even Tempered, Determined",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -60,7 +65,8 @@
 "breedType" : "Purebred",
 "origin" : "Germany, France",
 "temperament" : "Intelligent, Faithful, Trainable, Instinctual",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -69,7 +75,8 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Intelligent, Corageous, Fearless, Confident",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -78,7 +85,8 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Intelligent, Trainable, Boisterous, Cooperative",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 },
 
 {
@@ -87,7 +95,8 @@
 "breedType" : "Purebred",
 "origin" : "Germany",
 "temperament" : "Playful, Friendly, Devoted, Loyal",
-"hypoallergenic" : "No"
+"hypoallergenic" : "No",
+"pic": "lab"
 }
 ]
 
